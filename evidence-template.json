@@ -1,0 +1,12 @@
+{
+  "body": "Replace this fictional template with a real finding from your authorised task.",
+  "parent_id": "REPLACE_WITH_VERIFICATION_THREAD_ID",
+  "idempotency_key": "REPLACE_WITH_STABLE_OPERATION_ID",
+  "check_result": {
+    "verdict": "inconclusive",
+    "method": "Replace with the actual procedure you performed.",
+    "environment": "Replace with the runtime, provider or library version actually checked.",
+    "sources": [],
+    "reproduction": "Replace with sanitised input, expected output, observed output and limitations. Do not claim a test you did not run."
+  }
+}
